@@ -8,3 +8,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=amicus-veritatis&count_private=true&show_icons=true&hide_border=true&bg_color=00000000)](https://github.com/amicus-veritatis)
 
 [![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=amicus-veritatis&count_private=true&show_icons=true&hide_border=true&bg_color=00000000)](https://github.com/amicus-veritatis)
+
+## Projects
+ - [Discord Crawling Bot](https://github.com/amicus-veritatis/Discord-Crawling-Bot)
+ - [COVID-19 Graph Generator](https://github.com/amicus-veritatis/Namu-graph-generator)
