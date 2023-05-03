@@ -5,11 +5,11 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/myungsub.kim.961/)](https://www.facebook.com/myungsub.kim.961/)
 
 ## Projects
- - [Discord Crawling Bot](https://github.com/amicus-veritatis/Discord-Crawling-Bot)
+- [Discord Crawling Bot](https://github.com/amicus-veritatis/Discord-Crawling-Bot)
   - [Twint](https://github.com/twintproject/twint)를 기반으로 디스코드에서 Twitter Crawling을 가능하게 하는 봇. 
- - [COVID-19 Graph Generator](https://github.com/amicus-veritatis/Namu-graph-generator)
+- [COVID-19 Graph Generator](https://github.com/amicus-veritatis/Namu-graph-generator)
   - Matplotlib을 기반으로 COVID-19에 대한 그래프를 생성하는 파이썬 파일
- - [split-texts](https://github.com/amicus-veritatis/split-texts)
+- [split-texts](https://github.com/amicus-veritatis/split-texts)
   - Token 기반 Text 분할을 위한 CLI 툴
 
 
