@@ -6,11 +6,13 @@
 
 ## Projects
 - [Discord Crawling Bot](https://github.com/amicus-veritatis/Discord-Crawling-Bot)
-  - [Twint](https://github.com/twintproject/twint)를 기반으로 디스코드에서 Twitter Crawling을 가능하게 하는 봇. 
+  - [Twint](https://github.com/twintproject/twint) based Twitter crawling discord bot.
 - [COVID-19 Graph Generator](https://github.com/amicus-veritatis/Namu-graph-generator)
-  - Matplotlib을 기반으로 COVID-19에 대한 그래프를 생성하는 파이썬 파일
+  - Python script for generating COVID-19 related graph, based on Matplotlib.
 - [split-texts](https://github.com/amicus-veritatis/split-texts)
-  - Token 기반 Text 분할을 위한 CLI 툴
+  - CLI tool for splitting text based on token.
+- [easy-demark](https://github.com/amicus-veritatis/easydemark)
+  - Impelemtation of [Embarrassingly Simple Text Watermarks](https://paperswithcode.com/paper/embarrassingly-simple-text-watermarks), with decoding script.
 
 
 ## Stats
