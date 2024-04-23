@@ -13,6 +13,8 @@
   - CLI tool for splitting text based on token.
 - [easy-demark](https://github.com/amicus-veritatis/easydemark)
   - Impelemtation of [Embarrassingly Simple Text Watermarks](https://paperswithcode.com/paper/embarrassingly-simple-text-watermarks), with decoding script.
+- [nview](https://github.com/vtmetrics/nview)
+  - CLI tool for calculating N-view index. 
 
 
 ## Stats
