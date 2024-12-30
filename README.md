@@ -18,11 +18,11 @@
 
 ## Contributions
 - [LangChain](https://github.com/langchain-ai/langchain)
-  - [Add HumanInputLLM](https://github.com/langchain-ai/langchain/pull/4160)
-  - [Documentation Fix](https://github.com/langchain-ai/langchain/pull/5118)
-  - [Add HumanInputChatModel](https://github.com/langchain-ai/langchain/pull/7256)
-  - [Make tqdm optional for OpenAIEmbeddings](https://github.com/langchain-ai/langchain/pull/7247)
-  - [Use tqdm.auto instead of tqdm](https://github.com/langchain-ai/langchain/pull/9584) 
+  - <https://github.com/langchain-ai/langchain/pull/4160>
+  - <https://github.com/langchain-ai/langchain/pull/5118>
+  - <https://github.com/langchain-ai/langchain/pull/7256>
+  - <https://github.com/langchain-ai/langchain/pull/7247>
+  - <https://github.com/langchain-ai/langchain/pull/9584>
 
 ## Stats
 [![github stats](https://github-readme-stats.vercel.app/api?username=amicus-veritatis&count_private=true&show_icons=true&hide_border=true&bg_color=00000000)](https://github.com/amicus-veritatis)
