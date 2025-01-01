@@ -5,6 +5,8 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/myungsub.kim.961/)](https://www.facebook.com/myungsub.kim.961/)
 
 ## Projects
+- [PintOS](https://github.com/amicus-veritatis/pintos)
+  - CSE4070: Operating Systems
 - [Discord Crawling Bot](https://github.com/amicus-veritatis/Discord-Crawling-Bot)
   - [Twint](https://github.com/twintproject/twint) based Twitter crawling discord bot.
 - [COVID-19 Graph Generator](https://github.com/amicus-veritatis/Namu-graph-generator)
