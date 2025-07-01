@@ -6,6 +6,8 @@
 ## Projects
 - [PintOS](https://github.com/amicus-veritatis/pintos)
   - CSE4070: Operating Systems
+- [System Programming](https://github.com/amicus-veritatis/CSE4100-System-Programming)
+  - CSE4100: System Programming
 - [Discord Crawling Bot](https://github.com/amicus-veritatis/Discord-Crawling-Bot)
   - [Twint](https://github.com/twintproject/twint) based Twitter crawling discord bot.
 - [COVID-19 Graph Generator](https://github.com/amicus-veritatis/Namu-graph-generator)
