@@ -8,8 +8,8 @@
   - CSE4070: Operating Systems
 - [System Programming](https://github.com/amicus-veritatis/CSE4100-System-Programming)
   - CSE4100: System Programming
-- Embedded System Software
-  - CSE4116:  Embedded System Software
+- [Embedded System Software](https://github.com/amicus-veritatis/CSE4116-Embedded-System-Software)
+  - CSE4116: Embedded System Software
 - [Discord Crawling Bot](https://github.com/amicus-veritatis/Discord-Crawling-Bot)
   - [Twint](https://github.com/twintproject/twint) based Twitter crawling discord bot.
 - [COVID-19 Graph Generator](https://github.com/amicus-veritatis/Namu-graph-generator)
@@ -30,7 +30,4 @@
   - <https://github.com/langchain-ai/langchain/pull/9584>
 
 ## Stats
-[![github stats](https://github-readme-stats.vercel.app/api?username=amicus-veritatis&count_private=true&show_icons=true&hide_border=true&bg_color=00000000)](https://github.com/amicus-veritatis)
-
-[![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=amicus-veritatis&count_private=true&show_icons=true&hide_border=true&bg_color=00000000)](https://github.com/amicus-veritatis)
-
+![github stats](github-metrics.svg)
