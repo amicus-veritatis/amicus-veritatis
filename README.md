@@ -1,6 +1,6 @@
 # amicus-veritatis
 
-[![Mail](https://img.shields.io/badge/Mail-Mail?logo=mail.ru&style=flat-square&color=168DE2&logoColor=white&link=mailto:otome@u.sogang.ac.kr)](mailto:otome@u.sogang.ac.kr)
+[![Mail](https://img.shields.io/badge/Mail-Mail?logo=mail.ru&style=flat-square&color=168DE2&logoColor=white&link=mailto:myeongseop.kim.58@gmail.com)](mailto:myeongseop.kim.58@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://amicus-veritatis.github.io/)](https://amicus-veritatis.github.io/)
 
 ## Projects
